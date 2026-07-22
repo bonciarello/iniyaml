@@ -1,3 +1,2 @@
 User-agent: *
 Allow: /
-Sitemap: https://cristianporco.it/app/convertitore-di-file-ini-in-yaml-con-editor-affiancato-e-blocco-note/sitemap.xml
